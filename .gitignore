@@ -1,3 +1,10 @@
-env/
+bin/
+include/
+lib/
+share/
+pip-selfcheck.json
+
 !*.ipynb
+
 .ipynb_checkpoints
+.Python
