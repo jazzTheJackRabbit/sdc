@@ -23,6 +23,7 @@ jupyter-client==5.1.0
 jupyter-console==5.1.0
 jupyter-core==4.3.0
 jupyterthemes==0.17.3
+Keras==2.0.8
 lesscpy==0.12.0
 Markdown==2.6.9
 MarkupSafe==1.0
@@ -50,6 +51,7 @@ Pygments==2.2.0
 pyparsing==2.2.0
 python-dateutil==2.6.1
 pytz==2017.2
+PyYAML==3.12
 pyzmq==16.0.2
 qtconsole==4.3.0
 scandir==1.5
