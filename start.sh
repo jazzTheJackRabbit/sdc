@@ -1,2 +1,2 @@
 #!/bin/zsh
-./bin/jupyter notebook
+/Users/amogh/workspace/jazz/code/courses/sdc/bin/jupyter notebook
