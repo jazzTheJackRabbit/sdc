@@ -1,2 +1,3 @@
 #!/bin/zsh
-/Users/amogh/workspace/jazz/code/courses/sdc/bin/jupyter notebook
+BASE_PATH=$(realpath ./)
+$BASE_PATH/bin/jupyter notebook
